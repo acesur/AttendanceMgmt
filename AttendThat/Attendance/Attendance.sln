@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attendance", "Attendance\Attendance.csproj", "{9663E4D7-EE64-4513-864F-F3B90FDD76D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F050A54E-07D5-4957-A367-7E625825FD81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9663E4D7-EE64-4513-864F-F3B90FDD76D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9663E4D7-EE64-4513-864F-F3B90FDD76D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9663E4D7-EE64-4513-864F-F3B90FDD76D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F050A54E-07D5-4957-A367-7E625825FD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F050A54E-07D5-4957-A367-7E625825FD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F050A54E-07D5-4957-A367-7E625825FD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F050A54E-07D5-4957-A367-7E625825FD81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

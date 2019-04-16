@@ -66,6 +66,4 @@ E:\AttendanceMgmt\AttendThat\Attendance\Attendance\obj\Debug\Attendance.csproj.C
 E:\AttendanceMgmt\AttendThat\Attendance\Attendance\obj\Debug\Attendance.csproj.CopyComplete
 E:\AttendanceMgmt\AttendThat\Attendance\Attendance\obj\Debug\Attendance.dll
 E:\AttendanceMgmt\AttendThat\Attendance\Attendance\obj\Debug\Attendance.pdb
-E:\AttendanceMgmt\AttendThat\Attendance\Attendance\bin\Attendance.dll.CodeAnalysisLog.xml
-E:\AttendanceMgmt\AttendThat\Attendance\Attendance\bin\Attendance.dll.lastcodeanalysissucceeded
 E:\AttendanceMgmt\AttendThat\Attendance\Attendance\obj\Debug\Attendance.csprojAssemblyReference.cache

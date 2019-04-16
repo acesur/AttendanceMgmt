@@ -47,7 +47,8 @@ namespace Attendance
         }
         private void save(int rollno, String studentname, String dateofclass1, String status, String sclass)
         {
-            String query = "insert into AttendStatus(RollID,StudentName,DateOfClass,AttendStatus,Class) values(" + rollno + ",'" + studentname + "','" + dateofclass1 + "','" + status + "','" + sclass + "')";
+            String query = "insert into AttendStatus(RollID,StudentName,DateOfClass,AttendStatus,Class) " +
+                "values(" + rollno + ",'" + studentname + "','" + dateofclass1 + "','" + status + "','" + sclass + "')";
             String mycon = "Data Source=DESKTOP-1GI0ER8\\SQLSERVER; Initial Catalog=Attend; Integrated Security=true";
             SqlConnection con = new SqlConnection(mycon);
             con.Open();

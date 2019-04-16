@@ -1,0 +1,14 @@
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\AttendanceMgmt\AttendThat\Attendance\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -88,20 +88,36 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AttendReports.aspx" />
     <Content Include="Global.asax" />
     <Content Include="images\b1.jpg" />
+    <Content Include="StudentCRUD.aspx" />
     <Content Include="styles\style.css" />
     <Content Include="Web.config" />
     <Content Include="WebFormAttend.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="AttendReports.aspx.cs">
+      <DependentUpon>AttendReports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AttendReports.aspx.designer.cs">
+      <DependentUpon>AttendReports.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Account.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentCRUD.aspx.cs">
+      <DependentUpon>StudentCRUD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StudentCRUD.aspx.designer.cs">
+      <DependentUpon>StudentCRUD.aspx</DependentUpon>
+    </Compile>
     <Compile Include="WebFormAttend.aspx.cs">
       <DependentUpon>WebFormAttend.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

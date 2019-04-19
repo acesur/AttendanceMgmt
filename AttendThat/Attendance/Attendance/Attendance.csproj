@@ -88,16 +88,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AttendanceForm.aspx" />
     <Content Include="AttendReports.aspx" />
+    <Content Include="Class.aspx" />
+    <Content Include="Dashbord.aspx" />
     <Content Include="Global.asax" />
     <Content Include="images\b1.jpg" />
+    <Content Include="ReportAttendance.aspx" />
+    <Content Include="Student.aspx" />
     <Content Include="StudentCRUD.aspx" />
     <Content Include="styles\style.css" />
+    <Content Include="Subject.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebFormAttend.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="AttendanceForm.aspx.cs">
+      <DependentUpon>AttendanceForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AttendanceForm.aspx.designer.cs">
+      <DependentUpon>AttendanceForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="AttendReports.aspx.cs">
       <DependentUpon>AttendReports.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -105,18 +118,53 @@
     <Compile Include="AttendReports.aspx.designer.cs">
       <DependentUpon>AttendReports.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Class.aspx.cs">
+      <DependentUpon>Class.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Class.aspx.designer.cs">
+      <DependentUpon>Class.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Dashbord.aspx.cs">
+      <DependentUpon>Dashbord.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dashbord.aspx.designer.cs">
+      <DependentUpon>Dashbord.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Account.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportAttendance.aspx.cs">
+      <DependentUpon>ReportAttendance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReportAttendance.aspx.designer.cs">
+      <DependentUpon>ReportAttendance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Student.aspx.cs">
+      <DependentUpon>Student.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Student.aspx.designer.cs">
+      <DependentUpon>Student.aspx</DependentUpon>
+    </Compile>
     <Compile Include="StudentCRUD.aspx.cs">
       <DependentUpon>StudentCRUD.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="StudentCRUD.aspx.designer.cs">
       <DependentUpon>StudentCRUD.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Subject.aspx.cs">
+      <DependentUpon>Subject.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Subject.aspx.designer.cs">
+      <DependentUpon>Subject.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebFormAttend.aspx.cs">
       <DependentUpon>WebFormAttend.aspx</DependentUpon>

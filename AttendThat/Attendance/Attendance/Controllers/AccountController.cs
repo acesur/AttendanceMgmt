@@ -36,7 +36,7 @@ namespace Attendance.Controllers
             {
                 con.Close();
                
-                return Redirect("~/WebFormAttend.aspx");
+                return Redirect("~/Dashbord.aspx");
             }
             else
             {
